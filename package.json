@@ -1,0 +1,16 @@
+{
+  "name": "js-array-methods-nyc",
+  "version": "1.0.0",
+  "description": "Lab: Higher-Order Functions, Callbacks, and Array Methods (NYC Edition)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "keywords": ["javascript", "array-methods", "higher-order-functions", "callbacks", "ttpr"],
+  "author": "TTPR @ BMCC",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
